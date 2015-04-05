@@ -1,6 +1,6 @@
 require 'sinatra'
 
-NEW_URL = "http://guides.cocoapods.org"
+NEW_URL = "https://guides.cocoapods.org"
 ROUTES = {
   "/" => "/",
   
